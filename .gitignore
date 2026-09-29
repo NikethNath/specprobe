@@ -1,0 +1,7 @@
+/specprobe
+/bin/
+/dist/
+*.xml
+!testdata/**/*.xml
+/report*.json
+.env
